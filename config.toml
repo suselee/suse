@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://suselee.github.io"
+baseURL = "https://suselee.github.io/suse"
 title = "SUSE"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -100,7 +100,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://suselee.github.io"
+    website = "https://suselee.github.io/suse"
     # 推特
     twitter = "susE"
 
