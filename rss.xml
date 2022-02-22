@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>SUSE</title><link>https://suselee.github.io/suse/</link><description>这是suse的生活与技术博客！</description><generator>Hugo 0.92.1 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>lyhgreat@gmail.com (SUSE)</managingEditor><webMaster>lyhgreat@gmail.com (SUSE)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Thu, 10 Feb 2022 06:58:31 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://suselee.github.io/suse/rss.xml"/><item><title>2022-2-10</title><link>https://suselee.github.io/suse/life/2022.2.10/</link><guid isPermaLink="true">https://suselee.github.io/suse/life/2022.2.10/</guid><pubDate>Thu, 10 Feb 2022 14:42:25 +0800</pubDate><author>lyhgreat@gmail.com (SUSE)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>这是一个测试文件，为了测试不进行域名解析之后的web页面是否正常。&lt;/p></description><category domain="https://suselee.github.io/suse/life/">life</category></item><item><title>2020元旦</title><link>https://suselee.github.io/suse/life/%E5%85%83%E6%97%A6/</link><guid isPermaLink="true">https://suselee.github.io/suse/life/%E5%85%83%E6%97%A6/</guid><pubDate>Mon, 03 Jan 2022 21:14:25 +0800</pubDate><author>lyhgreat@gmail.com (SUSE)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>期待2022元旦已久！&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>SUSE</title><link>https://suselee.github.io/suse/</link><description>这是suse的生活与技术博客！</description><generator>Hugo 0.92.2 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>lyhgreat@gmail.com (SUSE)</managingEditor><webMaster>lyhgreat@gmail.com (SUSE)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><lastBuildDate>Tue, 22 Feb 2022 06:21:49 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://suselee.github.io/suse/rss.xml"/><item><title>2022-2-10</title><link>https://suselee.github.io/suse/life/2022.2.10/</link><guid isPermaLink="true">https://suselee.github.io/suse/life/2022.2.10/</guid><pubDate>Thu, 10 Feb 2022 14:42:25 +0800</pubDate><author>lyhgreat@gmail.com (SUSE)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;h1 id="这是一个一级标题">这是一个一级标题&lt;/h1>
+&lt;h2 id="这是一个二级标题">这是一个二级标题&lt;/h2>
+&lt;p>这是一个测试段落&lt;/p>
+&lt;p>这是第二个测试段落&lt;/p>
+&lt;p>这是第三个测试段落&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">表格1&lt;/th>
+&lt;th style="text-align:center">表格2&lt;/th>
+&lt;th style="text-align:right">表格3&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">李玉浩&lt;/td>
+&lt;td style="text-align:center">李玉浩&lt;/td>
+&lt;td style="text-align:right">李玉浩&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">姓名&lt;/th>
+&lt;th style="text-align:center">年龄&lt;/th>
+&lt;th style="text-align:right">工作&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">小可爱&lt;/td>
+&lt;td style="text-align:center">18&lt;/td>
+&lt;td style="text-align:right">吃可爱多&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">小小勇敢&lt;/td>
+&lt;td style="text-align:center">20&lt;/td>
+&lt;td style="text-align:right">爬棵勇敢树&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">小小小机智&lt;/td>
+&lt;td style="text-align:center">22&lt;/td>
+&lt;td style="text-align:right">看一本机智书&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>这是一个测试文件，为了测试不进行域名解析之后的web是否正常。&lt;/p></description><category domain="https://suselee.github.io/suse/life/">life</category></item><item><title>2020元旦</title><link>https://suselee.github.io/suse/life/%E5%85%83%E6%97%A6/</link><guid isPermaLink="true">https://suselee.github.io/suse/life/%E5%85%83%E6%97%A6/</guid><pubDate>Mon, 03 Jan 2022 21:14:25 +0800</pubDate><author>lyhgreat@gmail.com (SUSE)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright><description>&lt;p>期待2022元旦已久！&lt;/p>
 &lt;p>今年工作压力太大，只有在节假日才有可能彻底的放松下来，而且想要彻底的放松是不能留在城市里的，必须要回到乡下。只有回到乡下，才能体会到无所事事、彻底放松的感觉。&lt;/p>
 &lt;p>虽然每个星期都能有两天的休息日，但是这两天不会休息太好；这两年疫情肆虐，周六日也就尽量避免出门游玩了，所以只能在家里宅了，宅在家里能干些什么呢？&lt;/p>
 &lt;p>只能是吃饭、睡觉、看电视、玩手机、玩电脑、或者加班了，倍感枯燥，压力并不能得到缓解。&lt;/p>
