@@ -96,7 +96,7 @@ uglyURLs = false
     # 邮箱
     email = "lyhgreat@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "Viva La "
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
